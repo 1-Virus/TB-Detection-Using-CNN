@@ -3,7 +3,7 @@
  * Central API client for all backend communication.
  */
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://tb-detection-using-cnn.onrender.com";
 
 // ── Token helpers ────────────────────────────────────────────
 
